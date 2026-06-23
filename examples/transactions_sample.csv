@@ -1,0 +1,8 @@
+transaction_id,customer_id,account_id,transaction_date,transaction_type,amount,currency,counterparty_country,channel,description
+TXN001,CUST001,ACC001,2026-06-01,Debit,9900,USD,UAE,Online,Transfer sent
+TXN002,CUST001,ACC001,2026-06-02,Debit,9800,USD,UAE,Online,Transfer sent
+TXN003,CUST001,ACC001,2026-06-03,Debit,9950,USD,UAE,Online,Transfer sent
+TXN004,CUST001,ACC001,2026-06-04,Debit,9850,USD,UAE,Online,Transfer sent
+TXN005,CUST001,ACC001,2026-06-05,Debit,9900,USD,UAE,Online,Transfer sent
+TXN006,CUST002,ACC002,2026-06-01,Credit,1200,USD,India,Branch,Salary credit
+TXN007,CUST003,ACC003,2026-06-02,Debit,500,USD,UK,Online,Utility payment
