@@ -44,3 +44,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 ## License
 
 This project is licensed under the MIT License.
+
+## Current Features
+
+- Basic structuring detection
+- Sample transaction dataset
+- Example usage script
+- Initial unit test
